@@ -1,0 +1,25 @@
+# Archivos de compilación y objetos generados
+**/bin/
+**/obj/
+
+# Archivos de configuración local
+appsettings.json
+appsettings.Development.json
+
+# Archivos de registro
+**/*.log
+
+# Archivos temporales
+**/*.tmp
+
+# Archivos de caché
+**/*.cache
+
+# Archivos de respaldo
+**/*.bak
+
+# Carpetas de resultados de pruebas
+**/TestResults/
+
+# Carpeta de publicación
+publish/
